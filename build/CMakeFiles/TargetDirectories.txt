@@ -1,0 +1,3 @@
+/workspaces/TryPhysX/build/CMakeFiles/Hello.dir
+/workspaces/TryPhysX/build/CMakeFiles/edit_cache.dir
+/workspaces/TryPhysX/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/TryPhysX/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/Hello.dir/src/helloworld.cpp.o -c /workspaces/TryPhysX/src/helloworld.cpp",
+  "file": "/workspaces/TryPhysX/src/helloworld.cpp",
+  "output": "CMakeFiles/Hello.dir/src/helloworld.cpp.o"
+}
+]
